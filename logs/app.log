@@ -13832,3 +13832,443 @@
 2024-10-18 13:26:56,473 - root - INFO - Logging setup complete and application has started.
 2024-10-18 13:26:56,473 - root - INFO - Logging setup complete and application has started.
 2024-10-18 13:26:56,473 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,122 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,128 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,128 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,189 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-18 13:30:21,189 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-18 13:30:21,190 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-18 13:30:21,190 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-18 13:30:21,191 - werkzeug - INFO -  * Restarting with stat
+2024-10-18 13:30:21,191 - werkzeug - INFO -  * Restarting with stat
+2024-10-18 13:30:21,922 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,927 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,927 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:30:21,958 - werkzeug - WARNING -  * Debugger is active!
+2024-10-18 13:30:21,958 - werkzeug - WARNING -  * Debugger is active!
+2024-10-18 13:30:21,971 - werkzeug - INFO -  * Debugger PIN: 875-675-514
+2024-10-18 13:30:21,971 - werkzeug - INFO -  * Debugger PIN: 875-675-514
+2024-10-18 13:30:25,003 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "GET / HTTP/1.1" 200 -
+2024-10-18 13:30:25,003 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "GET / HTTP/1.1" 200 -
+2024-10-18 13:30:25,108 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:30:25,108 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:30:25,111 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:30:25,111 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:30:25,276 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:30:25,276 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:25] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:30:27,014 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:30:27,014 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:30:29,866 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:29] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:30:29,866 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:29] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:30:29,894 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:30:29,894 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:30:29,898 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:30:29,898 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:30:34,776 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:34] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:30:34,776 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:34] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:30:34,822 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:30:34,822 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:30:34,824 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:30:34,824 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:30:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:19,920 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:31:19,920 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:31:19,933 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:19,933 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:19,964 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:19,964 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:19,972 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:19,972 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:20,032 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:20] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:20,032 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:20] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:22,466 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:22,466 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:22,497 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:22,497 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:22,504 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:22,504 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:22,620 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:22,620 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:22] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:25,079 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:25,079 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:25,102 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:25,102 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:25,103 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:25,103 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:25,149 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:25,149 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:25,965 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:25,965 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:25,995 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:25,995 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,000 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,000 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,046 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,046 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,331 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:26,331 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:26,356 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,356 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,358 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,358 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,396 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,396 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,566 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:26,566 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:26,588 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,588 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,592 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,592 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,637 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,637 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,785 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:26,785 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:26,810 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,810 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,814 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,814 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:26,859 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:26,859 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:26] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,015 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,015 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,046 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,046 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,049 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,049 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,095 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,095 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,226 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,226 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,252 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,252 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,254 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,254 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,298 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,298 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,429 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,429 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,454 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,454 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,455 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,455 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,499 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,499 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,633 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,633 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,657 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,657 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,661 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,661 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,707 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,707 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,867 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,867 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:27,903 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,903 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,904 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,904 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:27,952 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:27,952 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:27] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:28,109 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:28,109 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:28,135 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:28,135 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:28,139 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:28,139 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:28,186 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:28,186 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:28] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:29,619 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:29,619 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:29,642 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:29,642 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:29,643 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:29,643 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:29,689 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:29,689 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:29] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,170 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,170 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,200 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,200 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,204 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,204 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,247 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,247 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,454 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,454 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,475 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,475 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,477 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,477 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,514 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,514 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,685 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,685 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,716 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,716 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,719 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,719 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,761 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,761 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,878 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,878 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "GET / HTTP/1.1" 200 -
+2024-10-18 13:31:30,896 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,896 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,901 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,901 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:31:30,949 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:31:30,949 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:31:30] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:32:23,339 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "GET / HTTP/1.1" 200 -
+2024-10-18 13:32:23,339 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "GET / HTTP/1.1" 200 -
+2024-10-18 13:32:23,360 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:32:23,360 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:32:23,362 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:32:23,362 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:32:23,378 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:32:23,378 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:32:23] "[35m[1mGET /search?q= HTTP/1.1[0m" 500 -
+2024-10-18 13:32:44,197 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:32:44,201 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:32:44,201 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:32:44,226 - flask_migrate - ERROR - Error: Directory migrations already exists and is not empty
+2024-10-18 13:32:44,226 - flask_migrate - ERROR - Error: Directory migrations already exists and is not empty
+2024-10-18 13:32:50,439 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:32:50,443 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:32:50,443 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:13,456 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:13,460 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:13,460 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:26,382 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:26,386 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:26,386 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:26,431 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-18 13:33:26,431 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-18 13:33:26,431 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-18 13:33:26,431 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-10-18 13:33:26,433 - werkzeug - INFO -  * Restarting with stat
+2024-10-18 13:33:26,433 - werkzeug - INFO -  * Restarting with stat
+2024-10-18 13:33:27,142 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:27,147 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:27,147 - root - INFO - Logging setup complete and application has started.
+2024-10-18 13:33:27,176 - werkzeug - WARNING -  * Debugger is active!
+2024-10-18 13:33:27,176 - werkzeug - WARNING -  * Debugger is active!
+2024-10-18 13:33:27,180 - werkzeug - INFO -  * Debugger PIN: 875-675-514
+2024-10-18 13:33:27,180 - werkzeug - INFO -  * Debugger PIN: 875-675-514
+2024-10-18 13:33:27,488 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:33:27,488 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:33:27,659 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:27,659 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:27,659 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:27,659 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:27,788 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:33:27,788 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:27] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:33:29,821 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:29] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:33:29,821 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:29] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:33:29,857 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:29,857 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:29,862 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:29,862 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:48,016 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:33:48,016 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:33:48,025 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "GET / HTTP/1.1" 200 -
+2024-10-18 13:33:48,025 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "GET / HTTP/1.1" 200 -
+2024-10-18 13:33:48,052 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:48,052 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:48,059 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:48,059 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:48,071 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:33:48,071 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:33:48,123 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "GET /static/uploads/1.png HTTP/1.1" 200 -
+2024-10-18 13:33:48,123 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:48] "GET /static/uploads/1.png HTTP/1.1" 200 -
+2024-10-18 13:33:55,158 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:55] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:33:55,158 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:55] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:33:55,189 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:55,189 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:33:55,192 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:55] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:33:55,192 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:33:55] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,447 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:34:26,447 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:34:26,460 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:34:26,460 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "GET / HTTP/1.1" 200 -
+2024-10-18 13:34:26,492 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,492 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,503 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,503 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,529 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:34:26,529 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:34:26,661 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,661 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:34:26,663 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "GET /static/uploads/Screenshot_2024-10-18_070900.png HTTP/1.1" 200 -
+2024-10-18 13:34:26,663 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:26] "GET /static/uploads/Screenshot_2024-10-18_070900.png HTTP/1.1" 200 -
+2024-10-18 13:34:30,891 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "GET /edit/2 HTTP/1.1" 200 -
+2024-10-18 13:34:30,891 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "GET /edit/2 HTTP/1.1" 200 -
+2024-10-18 13:34:30,927 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:34:30,927 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:34:30,931 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "[36mGET /static/uploads/Screenshot_2024-10-18_070900.png HTTP/1.1[0m" 304 -
+2024-10-18 13:34:30,931 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "[36mGET /static/uploads/Screenshot_2024-10-18_070900.png HTTP/1.1[0m" 304 -
+2024-10-18 13:34:30,931 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:34:30,931 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:34:30] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,685 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[32mPOST /edit/2 HTTP/1.1[0m" 302 -
+2024-10-18 13:42:22,685 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[32mPOST /edit/2 HTTP/1.1[0m" 302 -
+2024-10-18 13:42:22,694 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "GET / HTTP/1.1" 200 -
+2024-10-18 13:42:22,694 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "GET / HTTP/1.1" 200 -
+2024-10-18 13:42:22,721 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,721 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,724 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,724 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,745 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:42:22,745 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:42:22,937 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,938 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "GET /static/uploads/flappy_01.png HTTP/1.1" 200 -
+2024-10-18 13:42:22,937 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:42:22,938 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:22] "GET /static/uploads/flappy_01.png HTTP/1.1" 200 -
+2024-10-18 13:42:29,500 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:29] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:42:29,500 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:29] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:42:29,538 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:42:29,538 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:42:29,540 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:42:29,540 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:42:36,768 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:36] "GET / HTTP/1.1" 200 -
+2024-10-18 13:42:36,768 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:36] "GET / HTTP/1.1" 200 -
+2024-10-18 13:42:40,757 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:40] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:42:40,757 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:40] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:42:40,788 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:42:40,788 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:42:40,791 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:42:40,791 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:42:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:27,813 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:45:27,813 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:45:27,827 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:45:27,827 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "GET / HTTP/1.1" 200 -
+2024-10-18 13:45:27,880 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:27,880 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:27,883 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:27,883 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:27,931 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:45:27,931 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:27] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:45:28,061 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:28] "[36mGET /static/uploads/flappy_01.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:28,061 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:28] "[36mGET /static/uploads/flappy_01.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:28,062 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:28] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:28,062 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:28] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:28,062 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:28] "GET /static/uploads/img2.png HTTP/1.1" 200 -
+2024-10-18 13:45:28,062 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:28] "GET /static/uploads/img2.png HTTP/1.1" 200 -
+2024-10-18 13:45:32,010 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "GET /edit/1 HTTP/1.1" 200 -
+2024-10-18 13:45:32,010 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "GET /edit/1 HTTP/1.1" 200 -
+2024-10-18 13:45:32,044 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:32,046 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:32,044 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:32,046 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:32,048 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:32,048 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:32] "[36mGET /static/uploads/1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:37,815 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "[32mPOST /edit/1 HTTP/1.1[0m" 302 -
+2024-10-18 13:45:37,815 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "[32mPOST /edit/1 HTTP/1.1[0m" 302 -
+2024-10-18 13:45:37,825 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "GET / HTTP/1.1" 200 -
+2024-10-18 13:45:37,825 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "GET / HTTP/1.1" 200 -
+2024-10-18 13:45:37,894 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:37,894 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:37,920 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:37,920 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:37,941 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:45:37,941 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:37] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:45:38,016 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:38] "[36mGET /static/uploads/flappy_01.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:38,016 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:38] "[36mGET /static/uploads/flappy_01.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:38,017 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:38] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:38,018 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:38] "GET /static/uploads/img1.png HTTP/1.1" 200 -
+2024-10-18 13:45:38,017 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:38] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:38,018 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:38] "GET /static/uploads/img1.png HTTP/1.1" 200 -
+2024-10-18 13:45:41,854 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "GET /edit/2 HTTP/1.1" 200 -
+2024-10-18 13:45:41,854 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "GET /edit/2 HTTP/1.1" 200 -
+2024-10-18 13:45:41,882 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:41,882 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:41,886 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "[36mGET /static/uploads/flappy_01.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:41,886 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "[36mGET /static/uploads/flappy_01.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:41,890 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:41,890 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:48,652 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[32mPOST /edit/2 HTTP/1.1[0m" 302 -
+2024-10-18 13:45:48,652 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[32mPOST /edit/2 HTTP/1.1[0m" 302 -
+2024-10-18 13:45:48,659 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "GET / HTTP/1.1" 200 -
+2024-10-18 13:45:48,659 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "GET / HTTP/1.1" 200 -
+2024-10-18 13:45:48,699 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:48,699 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:48,704 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:48,704 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:48,716 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:45:48,716 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:45:48,778 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "GET /static/uploads/img2.png HTTP/1.1" 200 -
+2024-10-18 13:45:48,778 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "GET /static/uploads/img2.png HTTP/1.1" 200 -
+2024-10-18 13:45:48,778 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:48,778 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:48] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:45:50,556 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:50] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:45:50,556 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:50] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:45:50,580 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:50,580 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:45:50,585 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:45:50,585 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:45:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:46:37,017 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:46:37,017 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[32mPOST /add HTTP/1.1[0m" 302 -
+2024-10-18 13:46:37,024 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "GET / HTTP/1.1" 200 -
+2024-10-18 13:46:37,024 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "GET / HTTP/1.1" 200 -
+2024-10-18 13:46:37,059 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:46:37,059 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:46:37,065 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:46:37,065 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:46:37,094 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:46:37,094 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:46:37,184 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "GET /static/uploads/img2.png HTTP/1.1" 200 -
+2024-10-18 13:46:37,184 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "GET /static/uploads/img2.png HTTP/1.1" 200 -
+2024-10-18 13:46:37,189 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:46:37,189 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:37] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:46:44,650 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:44] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:46:44,650 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:44] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:46:44,677 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:46:44,677 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:46:44,680 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:46:44,680 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:46:52,947 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:52] "GET / HTTP/1.1" 200 -
+2024-10-18 13:46:52,947 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:52] "GET / HTTP/1.1" 200 -
+2024-10-18 13:46:53,039 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:53] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:46:53,039 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:53] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:46:53,044 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:53] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:46:53,044 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:46:53] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:47:38,662 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:47:38] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:47:38,662 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:47:38] "GET /add HTTP/1.1" 200 -
+2024-10-18 13:47:38,706 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:47:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:47:38,706 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:47:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:47:38,709 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:47:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:47:38,709 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:47:38] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,241 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "GET / HTTP/1.1" 200 -
+2024-10-18 13:48:29,241 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "GET / HTTP/1.1" 200 -
+2024-10-18 13:48:29,273 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,273 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,283 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,283 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,304 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:48:29,304 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:48:29,379 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,379 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,385 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:48:29,385 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:29] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:48:31,833 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "GET /edit/3 HTTP/1.1" 200 -
+2024-10-18 13:48:31,833 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "GET /edit/3 HTTP/1.1" 200 -
+2024-10-18 13:48:31,869 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:48:31,869 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:48:31,875 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:48:31,875 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:48:31,876 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:48:31,876 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:48:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,412 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "GET / HTTP/1.1" 200 -
+2024-10-18 13:50:16,412 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "GET / HTTP/1.1" 200 -
+2024-10-18 13:50:16,458 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,458 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,472 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,472 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,512 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:50:16,512 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "GET /search?q= HTTP/1.1" 200 -
+2024-10-18 13:50:16,589 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,589 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/uploads/img2.png HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,589 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:50:16,589 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:16] "[36mGET /static/uploads/img1.png HTTP/1.1[0m" 304 -
+2024-10-18 13:50:46,644 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:46] "GET /search?q=O HTTP/1.1" 200 -
+2024-10-18 13:50:46,644 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:46] "GET /search?q=O HTTP/1.1" 200 -
+2024-10-18 13:50:48,952 - werkzeug - INFO - 127.0.0.1 - - [18/Oct/2024 13:50:48] "GET /search?q=Og HTTP/1.1" 200 -
