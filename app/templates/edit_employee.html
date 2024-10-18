@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Employee</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Edit Employee</h1>
+        <a href="{{ url_for('employee_bp.list_employees') }}" class="btn">Back to Employee Directory</a>
+    </header>
+
+    <main>
+        <form action="{{ url_for('employee_bp.modify_employee', employee_id=employee.id) }}" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" value="{{ employee.name }}" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" value="{{ employee.email }}" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="position">Position:</label>
+                <input type="text" id="position" name="position" value="{{ employee.position }}" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="salary">Salary:</label>
+                <input type="number" id="salary" name="salary" value="{{ employee.salary }}" step="0.01" min="0" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="profile_picture">Profile Picture:</label>
+                {% if employee.profile_picture %}
+                    <img src="{{ url_for('static', filename='uploads/' + employee.profile_picture) }}" alt="Profile Picture" width="100" height="100">
+                {% endif %}
+                <input type="file" id="profile_picture" name="profile_picture" accept=".jpg, .jpeg, .png">
+            </div>
+            
+            <button type="submit" class="btn">Update Employee</button>
+        </form>
+    </main>
+
+    <!-- Include SweetAlert2 -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <!-- Include main.js -->
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <!-- Pass flash messages to JavaScript -->
+    <script type="application/json" id="flash-messages">
+        {{ get_flashed_messages(with_categories=true)|tojson }}
+    </script>
+</body>
+</html>

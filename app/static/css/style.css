@@ -1,0 +1,278 @@
+/* Base and Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Main Layout Styles */
+header {
+    background-color: #1e88e5;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    border-radius: 8px 8px 0 0;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+header .btn-add {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #43a047;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+
+header .btn-add:hover {
+    background-color: #388e3c;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus {
+    border-color: #1e88e5;
+    outline: none;
+}
+
+button[type="submit"] {
+    padding: 12px;
+    background-color: #1e88e5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #1565c0;
+}
+
+/* Table Styles */
+.table-wrapper {
+    overflow-x: auto;
+}
+
+.employee-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto; /* Adjust layout to fit content */
+}
+
+.employee-table thead {
+    background-color: #1e88e5;
+    color: #fff;
+}
+
+.employee-table th, 
+.employee-table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 1rem;
+}
+
+.employee-table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Profile Picture Styling */
+.employee-table img.profile-pic {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Responsive Cards for Mobile */
+@media screen and (max-width: 768px) {
+    .employee-table,
+    .employee-table thead,
+    .employee-table tbody,
+    .employee-table th,
+    .employee-table td,
+    .employee-table tr {
+        display: block;
+        width: 100%;
+    }
+
+    .employee-table tr {
+        margin-bottom: 15px;
+        border-bottom: 2px solid #ddd;
+    }
+
+    .employee-table th {
+        display: none; /* Hide table headers on small screens */
+    }
+
+    .employee-table td {
+        display: block;
+        text-align: right;
+        position: relative;
+        padding-left: 50%;
+    }
+
+    .employee-table td:before {
+        content: attr(data-label);
+        position: absolute;
+        left: 15px;
+        font-weight: bold;
+        text-align: left;
+    }
+    
+    .employee-table img.profile-pic {
+        margin: 0 auto 10px;
+    }
+}
+
+/* Button Styles */
+.btn-edit,
+.btn-delete {
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-right: 5px;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+    font-size: 0.9rem;
+}
+
+.btn-edit {
+    background-color: #ffb300;
+    color: #fff;
+}
+
+.btn-edit:hover {
+    background-color: #ffa000;
+}
+
+.btn-delete {
+    background-color: #e53935;
+    color: #fff;
+}
+
+.btn-delete:hover {
+    background-color: #d32f2f;
+}
+
+/* Responsive Button Stacking */
+@media screen and (max-width: 576px) {
+    .btn-edit, 
+    .btn-delete {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+/* Search Bar Styling */
+.search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.search-form input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    width: 100%;
+    max-width: 400px;
+    transition: all 0.3s ease;
+}
+
+.search-form input[type="text"]:focus {
+    border-color: #1e88e5;
+}
+
+.search-form button {
+    background-color: #1e88e5;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-form button:hover {
+    background-color: #1565c0;
+}
+
+/* Scrollbar Customization */
+.table-wrapper::-webkit-scrollbar {
+    height: 8px;
+}
+
+.table-wrapper::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.table-wrapper::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+.table-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+
+
